@@ -1,4 +1,4 @@
-## 반갑다 👋
+## 안녕하세요 👋
 
 <!--
 **diddbsrb/diddbsrb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
